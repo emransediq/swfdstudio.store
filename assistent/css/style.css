@@ -1,0 +1,168 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+html {
+    font-family: Arial;
+}
+
+button {
+    height: 50px;
+    width: 280px;
+    background: linear-gradient(10deg, purple, yellow, green, blue);
+}
+
+body {
+    background-color: lightblue;
+}
+
+@media screen and (min-width:250px) {
+    button {
+        height: 50px;
+        width: 200px;
+    }
+    body {
+        background-color: rgb(255, 0, 170);
+    }
+}
+@media screen and (min-width:300px) {
+    button {
+        height: 50px;
+        width: 250px;
+    }
+    body {
+        background-color: rgb(192, 38, 192);
+    }
+}
+@media screen and (min-width:350px) {
+    button {
+        height: 50px;
+        width: 300px;
+    }
+    body {
+        background-color: #3079bd;
+    }
+}
+@media screen and (min-width:400px) {
+    button {
+        height: 50px;
+        width: 350px;
+    }
+    body {
+        background-color: #bb5d5d;
+    }
+}
+@media screen and (min-width:450px) {
+    button {
+        height: 50px;
+        width: 400px;
+    }
+    body {
+        background-color: #827af0;
+    }
+}
+@media screen and (min-width:500px) {
+    button {
+        height: 50px;
+        width: 450px;
+    }
+    body {
+        background-color: lime;
+    }
+}
+@media screen and (min-width:550px) {
+    button {
+        height: 50px;
+        width: 500px;
+    }
+    body {
+        background-color: rgb(48, 74, 85);
+    }
+}
+@media screen and (min-width:600px) {
+    button {
+        height: 50px;
+        width: 550px;
+    }
+    body {
+        background-color: #536d0d;
+    }
+}
+@media screen and (min-width:650px) {
+    button {
+        height: 50px;
+        width: 600px;
+    }
+    body {
+        background-color: #4b0707;
+    }
+}
+@media screen and (min-width:700px) {
+    button {
+        height: 50px;
+        width: 650px;
+    }
+    body {
+        background-color: #053f17;
+    }
+}
+@media screen and (min-width:750px) {
+    button {
+        height: 50px;
+        width: 700px;
+    }
+    body {
+        background-color: rgb(255, 45, 143);
+    }
+}
+@media screen and (min-width:800px) {
+    button {
+        height: 50px;
+        width: 750px;
+    }
+    body {
+        background-color: rgb(243, 157, 157);
+    }
+}
+@media screen and (min-width:850px) {
+    button {
+        height: 50px;
+        width: 800px;
+    }
+    body {
+        background-color: #384653;
+    }
+}
+@media screen and (min-width:900px) {
+    button {
+        height: 50px;
+        width: 850px;
+    }
+    body {
+        background-color: #610661;
+    }
+}
+@media screen and (min-width:950px) {
+    button {
+        height: 50px;
+        width: 900px;
+    }
+    body {
+        background-color: #507c66;
+    }
+}
+@media screen and (min-width:1000px) {
+    button {
+        height: 100px;
+        width: 750px;
+    }
+    body {
+        background-color: yellow;
+    }
+}
+
+
+
+
+
